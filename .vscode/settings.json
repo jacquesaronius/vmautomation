@@ -1,0 +1,8 @@
+{
+    "python.analysis.extraPaths": [
+        "${workspaceFolder}/api/interfaces",
+        "${workspaceFolder}/api/factories",
+        "${workspaceFolder}/api/kvm",
+        "${workspaceFolder}/api/vmware"
+    ]
+}
